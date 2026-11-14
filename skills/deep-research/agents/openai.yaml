@@ -1,0 +1,8 @@
+interface:
+  display_name: "deep-research"
+  short_description: "Research with verified sources and a cited answer"
+  brand_color: "#3B82F6"
+  default_prompt: "Use deep-research to answer this with sources."
+
+policy:
+  allow_implicit_invocation: true
